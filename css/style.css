@@ -53,7 +53,7 @@ header {
     display:  flex;
     flex-direction: column;
     align-items: center;
-    background-image: url("./img/1.JPG");
+    background-image: url("../website_marciastoree/img/1.JPG");
     background-size: cover;
     background-repeat:no-repeat;
     background-position:center;
@@ -202,7 +202,7 @@ footer a{
     }
     #fotos img {
         width: 10%;
-        padding: 0 15px;
+        padding: 0 17px;
         
     }
     #contato {
