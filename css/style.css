@@ -277,7 +277,16 @@ footer a{
         text-align: center;
     }
     #newfotos div p{
-        width: 100%;
+        
         text-align: center;
+    }
+    #newfotos div img{
+        width: 40%;
+        text-align: center;
+    }
+    #newfotos {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
     }
 }
